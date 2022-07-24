@@ -1,2 +1,5 @@
 # Projeto-Bootstrap
-Criando uma landing page reposniva
+
+>Status do Projeto: Em Desenvolvimento
+
+Criando uma landing page resposniva
